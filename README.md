@@ -3,9 +3,9 @@
 I was a student assistant for data mining & machine learning at UNIL HEC, also for business intelligence and analytics, and big-scale analytics in 2021-2022.
 
 
-<!---![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianakorka&show_icons=true)--->
+<!---![Diana's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dianakorka&show_icons=true)--->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianakorka&langs_count=10)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dianakorka&langs_count=10)
 
 <!--
 **dianakorka/dianakorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
